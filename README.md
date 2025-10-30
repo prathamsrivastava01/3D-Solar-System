@@ -17,4 +17,4 @@ A Web-based 3D simulation of the solar system using Three.js. Includes dynamic o
 - HTML, CSS, JavaScript
 - Three.js (for 3D rendering)
 
-Live Demo -> https://prathamsrivastava01.github.io/3d-Solar-System/
+Live Demo -> https://prathamsrivastava01.github.io/3D-Solar-System/
